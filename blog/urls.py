@@ -1,4 +1,4 @@
-//here we need to add include
+
 from django.urls import path, include
 from . import views
 
